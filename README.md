@@ -9,7 +9,7 @@ Orginal [Github Reposity](https://github.com/XXLTomate/WhatsAppStats)
 Usage
 ------
 
-1. Get the chat protocol from your modile device to your computer (send via email)
+1. Get the chat protocol from your mobile device to your computer (send via email)
 2. `WhatsAppChatStatistics.py ChatProtocol.txt`
 3. Use `WhatsAppStats.py --help` to see available options.
 
